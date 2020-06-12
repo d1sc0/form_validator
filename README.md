@@ -2,6 +2,8 @@
 
 Simple client side form validation. Check requird, length, email and password match
 
+test it out at https://d1sc0.github.io/form_validator/
+
 ## Project Specifications
 
 - Create form UI
